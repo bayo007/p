@@ -44,7 +44,7 @@ h5,
 h6 {
   font-family: "Verdana", sans-serif;
   margin-bottom: 1.25rem;
-  letter-spacing: var(--mainSpacing);
+  /* letter-spacing: var(--mainSpacing); */
 }
 h1 {
   font-size: 3.3rem;
